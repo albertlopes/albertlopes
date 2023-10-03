@@ -1,13 +1,3 @@
-## Welcome to Jade Abinajm profile 😁
-
-* 🌍  Eu sou de São paulo-BR
-* ✉️  Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/jade-abinajm-3a08bb196/)
-* 🧠 Eu estou estudando java, html,css, javaScript, banco de dados h2 e postgreeSQL.
-
-
-
-
-
 
 
 <div>
@@ -34,10 +24,7 @@
  
 <div> 
 
-  <a href="https://www.instagram.com/hello_world_jade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href ="mailto:jade.abinajm@oulook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jade-abinajm-3a08bb196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
 ![snake gif](https://github.com/AdyHye/AdyHye/blob/output/github-contribution-grid-snake.svg)
   
